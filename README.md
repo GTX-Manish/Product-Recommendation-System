@@ -10,6 +10,6 @@ This project implements a product recommendation system leveraging the Alternati
 
 # Getting Started
 1. Clone the repository.  
-2. Prepare your dataset and configure the system with Apache Spark.  
+2. Prepare your dataset and configure the system with Apache Spark. Dataset - https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/  
 3. Train the ALS model using k-fold cross-validation and evaluate its performance using RMSE.  
 4. Generate and display product recommendations.
